@@ -22,6 +22,8 @@ namespace _01_introducao_ao_csharp_com_selenium
             {
                 driver.Quit();
             }
+
+            driver.Quit();
         }
     }
 }
