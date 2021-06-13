@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-abrindo-web-browser", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-estruturando-codigo-fonte", "03-estruturando-codigo-fonte\03-estruturando-codigo-fonte.csproj", "{C1DEABBE-962E-43D0-83B1-E2468BBECF8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-preenchendo-formulario-web-01", "04-preenchendo-formulario-web-01\04-preenchendo-formulario-web-01.csproj", "{264823D3-65BF-412B-84F5-57674A65EBD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C1DEABBE-962E-43D0-83B1-E2468BBECF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1DEABBE-962E-43D0-83B1-E2468BBECF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1DEABBE-962E-43D0-83B1-E2468BBECF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264823D3-65BF-412B-84F5-57674A65EBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264823D3-65BF-412B-84F5-57674A65EBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264823D3-65BF-412B-84F5-57674A65EBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264823D3-65BF-412B-84F5-57674A65EBD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
